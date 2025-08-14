@@ -671,8 +671,16 @@ class WebDev100Days {
         category: "basic",
         technologies: ["HTML", "CSS", "JavaScript"],
         features: ["LeetCode", "Stats", "Graph"]
-      }
-
+      },
+{
+  originalDay: 124, // Use the next available day number
+  name: "AI Code Generator",
+  description: "Generate HTML/CSS/JS code snippets from a text prompt using a public AI API.",
+  demoLink: "./public/AI_Code_Generator/index.html", // Path to your project
+  category: "advanced",
+  technologies: ["HTML", "CSS", "JavaScript", "API"],
+  features: ["AI Generation", "Live Preview", "Copy to Clipboard"]
+}
     ];
   
   // Assign sequential day numbers (1, 2, 3, 4...) regardless of original day numbers
