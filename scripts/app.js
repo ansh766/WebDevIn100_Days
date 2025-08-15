@@ -1077,6 +1077,17 @@ class WebDev100Days {
   features: [
   "Dynamic grid scaling, pattern generation & replay, dark/light mode, score & level tracking, keyboard accessibility, animated feedback, and replay option."
   ]
+},
+ {
+  originalDay: 166,
+  name: "AI_Code_Generator",
+  description: "An AI-powered code generator that generates code based on a prompt",
+  demoLink: "./public/AI_Code_Generator/index.html",
+  category: "creativity",
+  technologies: ["HTML", "CSS", "JavaScript"],
+  features: [
+ " Code Genration , Live Preview , Explain code, One click deploy "
+  ]
 }
 
     ];
